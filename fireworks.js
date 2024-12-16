@@ -1,12 +1,12 @@
 const colors = [
-	"#ff6f91",
-	"#ff9671",
-	"#ffc75f",
-	"#f9f871",
-	"#ff4c4c",
-	"#ffcc00"
+	"#daa520",
+	"#ffb6c1",
+	"#8B0000",
+	"#00008B",
+	"#ffffff",
+	"#341539"
 ];
-const letters = "I LOVE YOU";
+const letters = "EU TE AMO";
 let letterIndex = 0;
 
 function getRandomLetter() {
